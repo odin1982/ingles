@@ -1,2 +1,5 @@
 dry cleaners    -   tintorerias
-lift    -   levantar
+lift        -   levantar
+research    -   investigar
+assigment   -   tarea, materia, asignatura
+qualitive   -   cualitativo
