@@ -6,7 +6,6 @@ countable:
         one apple, two apples
         one house, two houses
 
-        I have some cold chicken in the fridge.
         
 
 uncountable
@@ -18,7 +17,47 @@ uncountable
         sugar
         music
     
+        I have some cold chicken in the fridge.
         Do you have any white wine?
+        No, but I think I have some beers.
+        any salad?
+        I have some tomatos and onions and I think I have some lettuce and cucumber
+
+
+some 
+    -is always use in affirmative sentences
+        I have some cold chicken in the fridge.
+        I have some apple juice at home
+        You've got some sandwiches for the picnic
+
+any
+    - is always use in negative sentences
+        She doesn't have any oranges
+        We haven't got any coffe
+
+
+Questions with some and any
+    - We usuallly use any in questions
+        Do you have any vegetables?
+        Do you have any wine?
+
+    - when the questions is a offer or a request use some, only in this case
+        Do you want some coffee
+        Can I have some water, please?
+
+Some and any as pronouns
+    Have you got any bread?
+    Yes, I have some
+    No I don't have any
+
+
+    
+    
+
+
+
+
+
 
 
 
