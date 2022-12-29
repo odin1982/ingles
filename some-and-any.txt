@@ -1,0 +1,26 @@
+countable and uncountable nouns with SOME and ANY
+
+countable:
+    - things that we can count using numbers
+    - you can count thing with your fingers
+        one apple, two apples
+        one house, two houses
+
+        I have some cold chicken in the fridge.
+        
+
+uncountable
+    - things we can not count using numbers
+    - dont have a plural form
+    - when we use this nouns we dont know the exactly quantity
+    - uncountable nouns are liquids
+        cofee
+        sugar
+        music
+    
+        Do you have any white wine?
+
+
+
+
+
