@@ -1,6 +1,14 @@
 to drip -   gotear
 
 
+trolley -   carrito
+aisle   -   pasillo
+shelves -   estantes
+cashier -   cajero
+deli    -   delicatessen
+belt    -   cinturon - o la banda donde pasas tus productos en el supermercado
+
+
 
 
 variety is the spice of life    -   en la variedad está el gusto
