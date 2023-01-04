@@ -1,9 +1,13 @@
-dry cleaners    -   tintorerias
-lift        -   levantar
-research    -   investigar
 assigment   -   tarea, materia, asignatura
-qualitive   -   cualitativo
+delayed     -   retrasaso
 grace       -   gracias
+lift        -   levantar
+qualitive   -   cualitativo
+research    -   investigar
+upset       -   moslesto
+
+dry cleaners    -   tintorerias
+
 
 
 
