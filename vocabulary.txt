@@ -7,13 +7,16 @@ shelves -   estantes
 cashier -   cajero
 deli    -   delicatessen
 belt    -   cinturon - o la banda donde pasas tus productos en el supermercado
+tights  -   medias de mujer
 
 
 
 
 variety is the spice of life    -   en la variedad está el gusto
 look after yourself             -   cuidate
-
+few people miss the sales       -   Poca gente se pierde las rebajas
+I want one of each              -   Si yo quiero una de cada
+Yeah, and we always find so many bargains!  -   Sí, ¡y siempre encontramos tantas gangas!
 
 
 
