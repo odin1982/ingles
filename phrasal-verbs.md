@@ -1,3 +1,4 @@
+# Phrasals Verbs
 pick up
     - dry clenaning:
         pick up an object at the dry cleaner
@@ -24,3 +25,20 @@ run into(chocar contra)
     - a Friend
     - a tree
     - to meet someone you know when you are not expecting to
+
+# take off
+    - your shoes    -   quitate los zapatos
+    - on time       -   el avion despegue a tiempo
+
+# hold up
+    - on departure  -   no despegara a tiempo*
+    - your hand     -   levantar la mano cuando quieran para participar
+    - a bank        -   asaltar un banco
+
+# fill out
+    - a form        -   llenar un documento
+    - a dress       -   rellenar el vestido
+
+# blow up
+    - something         -   hacer explotar
+    - about something   -   enfadar 
