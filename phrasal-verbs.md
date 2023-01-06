@@ -48,3 +48,20 @@ run into(chocar contra)
     - your paper:           in school turn in your paper - means give me your assigments
     - to the police:        i gave it to the police - to take a criminal to the police, or to go to them yourself to admit a crime
     - to a monster:         to change - my friend turn in into a monster
+
+## turn on
+    - the light             prende la luz
+    - a person              sexual meaning
+    - your imagination  
+### turn something on  
+        - to start to show a particular quality: He can really turn on the charm when he wants to
+### turn on someone
+        - to attack or criticize someone suddenly and unexpectedly: Suddenly she just turned on me and accused me of undermining her
+        - to make someone feel interested or excited, especially sexually
+
+
+## turn over
+    - If an engine turns over, its parts move in order to make the engine start running: When I put the key in the ignition it turns over, but it won't start
+
+### turn (something) over:
+    - to change to a different television station:    This program's boring - can I turn over to BBC2?  
