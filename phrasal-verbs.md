@@ -42,3 +42,9 @@ run into(chocar contra)
 # blow up
     - something         -   hacer explotar
     - about something   -   enfadar 
+
+# turn in
+    - for the night:        you are ready to go to sleep - im going to bed im tired
+    - your paper:           in school turn in your paper - means give me your assigments
+    - to the police:        i gave it to the police - to take a criminal to the police, or to go to them yourself to admit a crime
+    - to a monster:         to change - my friend turn in into a monster
