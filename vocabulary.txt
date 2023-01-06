@@ -8,6 +8,7 @@ cashier -   cajero
 deli    -   delicatessen
 belt    -   cinturon - o la banda donde pasas tus productos en el supermercado
 tights  -   medias de mujer
+trouser -   pantalón
 
 
 
@@ -24,3 +25,4 @@ Yeah, and we always find so many bargains!  -   Sí, ¡y siempre encontramos tan
 pronuntiation
 
 pears - pers
+trouser - trauser
